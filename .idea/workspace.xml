@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Hesap Makinesi">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_2/KullaniciGiris.java" afterDir="false" />
+    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Kullanıcı Girişi">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_2/SinifGecme.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     "last_opened_file_path": "D:/Masaüstü/coding/java/PatikaDevJava101"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KullaniciGiris">
+  <component name="RunManager" selected="Application.SinifGecme">
     <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_2.HesapMakinesi" />
       <module name="Patika.devJava101Projects" />
@@ -77,6 +77,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SinifGecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_2.SinifGecme" />
+      <module name="Patika.devJava101Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hafta_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VucutKitleIndeks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_1.VucutKitleIndeks" />
       <module name="Patika.devJava101Projects" />
@@ -92,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SinifGecme" />
         <item itemvalue="Application.KullaniciGiris" />
         <item itemvalue="Application.HesapMakinesi" />
         <item itemvalue="Application.ManavKasa" />
@@ -107,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667909099880</updated>
-      <workItem from="1667909101489" duration="4114000" />
+      <workItem from="1667909101489" duration="5135000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -130,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667912828117</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Kullanıcı Girişi">
+      <created>1667914218741</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667914218741</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +172,7 @@
     <MESSAGE value="Vücut kitle indeksi" />
     <MESSAGE value="Manav Kasa" />
     <MESSAGE value="Hesap Makinesi" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hesap Makinesi" />
+    <MESSAGE value="Kullanıcı Girişi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kullanıcı Girişi" />
   </component>
 </project>
