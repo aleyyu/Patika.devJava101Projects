@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Numaraları büyükten küçüğe sıralama">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_2/Horoscope.java" afterDir="false" />
+    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Burç bulma">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_2/UcakBileti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     "last_opened_file_path": "D:/Masaüstü/coding/java/PatikaDevJava101"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Horoscope">
+  <component name="RunManager" selected="Application.UcakBileti">
     <configuration name="EtkinlikOner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_2.EtkinlikOner" />
       <module name="Patika.devJava101Projects" />
@@ -53,19 +53,6 @@
     </configuration>
     <configuration name="Horoscope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_2.Horoscope" />
-      <module name="Patika.devJava101Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hafta_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KullaniciGiris" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_2.KullaniciGiris" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
@@ -103,13 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UcakBileti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_2.UcakBileti" />
+      <module name="Patika.devJava101Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hafta_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcakBileti" />
         <item itemvalue="Application.Horoscope" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.EtkinlikOner" />
         <item itemvalue="Application.SinifGecme" />
-        <item itemvalue="Application.KullaniciGiris" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667909099880</updated>
-      <workItem from="1667909101489" duration="8917000" />
+      <workItem from="1667909101489" duration="11347000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667916893256</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Burç bulma">
+      <created>1667918856430</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667918856430</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +203,7 @@
     <MESSAGE value="Kullanıcı Girişi" />
     <MESSAGE value="Sıcaklığa göre etkinlik önerme" />
     <MESSAGE value="Numaraları büyükten küçüğe sıralama" />
-    <option name="LAST_COMMIT_MESSAGE" value="Numaraları büyükten küçüğe sıralama" />
+    <MESSAGE value="Burç bulma" />
+    <option name="LAST_COMMIT_MESSAGE" value="Burç bulma" />
   </component>
 </project>
