@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Kullanıcı Girişi">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_2/SinifGecme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta_2/EtkinlikOner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,20 @@
     "last_opened_file_path": "D:/Masaüstü/coding/java/PatikaDevJava101"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SinifGecme">
+  <component name="RunManager" selected="Application.EtkinlikOner">
+    <configuration name="EtkinlikOner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_2.EtkinlikOner" />
+      <module name="Patika.devJava101Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hafta_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_2.HesapMakinesi" />
       <module name="Patika.devJava101Projects" />
@@ -90,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VucutKitleIndeks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_1.VucutKitleIndeks" />
-      <module name="Patika.devJava101Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hafta_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EtkinlikOner" />
         <item itemvalue="Application.SinifGecme" />
         <item itemvalue="Application.KullaniciGiris" />
         <item itemvalue="Application.HesapMakinesi" />
         <item itemvalue="Application.ManavKasa" />
-        <item itemvalue="Application.VucutKitleIndeks" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667909099880</updated>
-      <workItem from="1667909101489" duration="5135000" />
+      <workItem from="1667909101489" duration="5845000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -151,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667914218741</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kullanıcı Girişi">
+      <created>1667914979641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667914979641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
