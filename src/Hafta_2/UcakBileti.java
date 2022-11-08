@@ -24,9 +24,9 @@ public class UcakBileti {
         Scanner inp = new Scanner(System.in);
 
         int distance, age, travelType;
-        double pricePerKm = 0.1;
+        double pricePerKm = 0.10;
         double ticketPrice, netPrice;
-        double ageDiscount = 0.0;
+        double ageDiscount;
         double travelTypeDiscount = 0.0;
 
         System.out.print("Mesafeyi km cinsinden girin: ");
@@ -35,7 +35,7 @@ public class UcakBileti {
         System.out.print("Yaşınızı girin: ");
         age = inp.nextInt();
 
-        System.out.print("Tek Yön: 1 - Gidiş-Dönüş: 2 --> Birini seçiniz:");
+        System.out.print("Tek Yön: 1 - Gidiş-Dönüş: 2 --> Birini seçiniz: ");
         travelType = inp.nextInt();
 
         //kontroller
@@ -55,37 +55,48 @@ public class UcakBileti {
             //travelType = inp.nextInt();
         }
         else{
+
             ticketPrice = distance * pricePerKm;
 
             System.out.println("İndirimsiz bilet fiyatı: "+ ticketPrice);
 
             //yaş indirimleri
-        /*
-            -Kişi 12 yaşından küçükse bilet fiyatı üzerinden %50 indirim uygulanır.
-            -Kişi 12-24 yaşları arasında ise bilet fiyatı üzerinden %10 indirim uygulanır.
-            -Kişi 65 yaşından büyük ise bilet fiyatı üzerinden %30 indirim uygulanır.
-         */
+            /*
+                -Kişi 12 yaşından küçükse bilet fiyatı üzerinden %50 indirim uygulanır.
+                -Kişi 12-24 yaşları arasında ise bilet fiyatı üzerinden %10 indirim uygulanır.
+                -Kişi 65 yaşından büyük ise bilet fiyatı üzerinden %30 indirim uygulanır.
+            */
             if(age<12){
                 ageDiscount = (ticketPrice/2);
+                ticketPrice -= ageDiscount;
             }
             else if(age <= 24){
-                ageDiscount = (ticketPrice*0.1);
+                ageDiscount = (ticketPrice * 0.10);
+                ticketPrice -= ageDiscount;
             }
             else if(age>65){
-                ageDiscount = (ticketPrice*0.3);
+                ageDiscount = (ticketPrice*0.30);
+                ticketPrice -= ageDiscount;
             }
+
+            System.out.println("Yaş indirimli: "+ ticketPrice);
 
             //yolculuk tipi indirimi
-        /*
-            -Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %20 indirim uygulanır.
-         */
-            if(travelType == 2){
-                travelTypeDiscount = (ticketPrice * 0.2);
+            /*
+                -Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %20 indirim uygulanır.
+            */
+            if(travelType == 1){
+                netPrice = ticketPrice;
+                System.out.println("Biletin son fiyatı: "+ netPrice);
+            }
+            else if(travelType == 2){
+                ticketPrice -= ticketPrice * 0.2;
+                netPrice = ticketPrice * 2;
+                System.out.println("Biletin son fiyatı: "+ netPrice);
             }
 
-            netPrice = ticketPrice - ageDiscount - travelTypeDiscount;
 
-            System.out.println("\nBiletin son fiyatı: "+ netPrice);
+
         }
 
 
