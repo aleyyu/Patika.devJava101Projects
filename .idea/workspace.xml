@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Uçak Bileti">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_2/CinZodyak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hafta_2/UcakBileti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta_2/UcakBileti.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,15 +29,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Masaüstü/coding/java/PatikaDevJava101"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Masaüstü/coding/java/PatikaDevJava101&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.UcakBileti">
+}</component>
+  <component name="RunManager" selected="Application.CinZodyak">
+    <configuration name="CinZodyak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_2.CinZodyak" />
+      <module name="Patika.devJava101Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hafta_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EtkinlikOner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_2.EtkinlikOner" />
       <module name="Patika.devJava101Projects" />
@@ -53,19 +66,6 @@
     </configuration>
     <configuration name="Horoscope" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_2.Horoscope" />
-      <module name="Patika.devJava101Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hafta_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SinifGecme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_2.SinifGecme" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CinZodyak" />
         <item itemvalue="Application.UcakBileti" />
         <item itemvalue="Application.Horoscope" />
         <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.EtkinlikOner" />
-        <item itemvalue="Application.SinifGecme" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +121,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667909099880</updated>
-      <workItem from="1667909101489" duration="12414000" />
+      <workItem from="1667909101489" duration="13100000" />
+      <workItem from="1667999402646" duration="513000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -186,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667921365015</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Uçak Bileti">
+      <created>1667922380226</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667922380226</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
