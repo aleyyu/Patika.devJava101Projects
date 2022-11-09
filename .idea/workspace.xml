@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Uçak Bileti">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_2/CinZodyak.java" afterDir="false" />
+    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Çin Zodyağı">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_2/ArtikYil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +37,9 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Masaüstü/coding/java/PatikaDevJava101&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CinZodyak">
-    <configuration name="CinZodyak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_2.CinZodyak" />
+  <component name="RunManager" selected="Application.ArtikYil">
+    <configuration name="ArtikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_2.ArtikYil" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EtkinlikOner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_2.EtkinlikOner" />
+    <configuration name="CinZodyak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_2.CinZodyak" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArtikYil" />
         <item itemvalue="Application.CinZodyak" />
         <item itemvalue="Application.UcakBileti" />
         <item itemvalue="Application.Horoscope" />
         <item itemvalue="Application.Sorting" />
-        <item itemvalue="Application.EtkinlikOner" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +122,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667909099880</updated>
       <workItem from="1667909101489" duration="13100000" />
-      <workItem from="1667999402646" duration="513000" />
+      <workItem from="1667999402646" duration="1125000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -194,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667922380226</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Çin Zodyağı">
+      <created>1668000038496</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668000038496</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +227,7 @@
     <MESSAGE value="Numaraları büyükten küçüğe sıralama" />
     <MESSAGE value="Burç bulma" />
     <MESSAGE value="Uçak Bileti" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uçak Bileti" />
+    <MESSAGE value="Çin Zodyağı" />
+    <option name="LAST_COMMIT_MESSAGE" value="Çin Zodyağı" />
   </component>
 </project>
