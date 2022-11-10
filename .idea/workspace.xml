@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Üslü sayılar">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_3/Faktoriyel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Faktöriyel">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_3/UsAlma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Masaüstü/coding/java/PatikaDevJava101&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Faktoriyel">
-    <configuration name="ArtikYil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_2.ArtikYil" />
-      <module name="Patika.devJava101Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hafta_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UsAlma">
     <configuration name="CiftSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_3.CiftSayilar" />
       <module name="Patika.devJava101Projects" />
@@ -90,6 +76,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UsAlma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_3.UsAlma" />
+      <module name="Patika.devJava101Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hafta_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ussu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_3.Ussu" />
       <module name="Patika.devJava101Projects" />
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UsAlma" />
         <item itemvalue="Application.Faktoriyel" />
         <item itemvalue="Application.Ussu" />
         <item itemvalue="Application.TekSayilar" />
         <item itemvalue="Application.CiftSayilar" />
-        <item itemvalue="Application.ArtikYil" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +122,7 @@
       <updated>1667909099880</updated>
       <workItem from="1667909101489" duration="13100000" />
       <workItem from="1667999402646" duration="4682000" />
-      <workItem from="1668084441494" duration="2402000" />
+      <workItem from="1668084441494" duration="2814000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -230,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668085711691</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Faktöriyel">
+      <created>1668086869512</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1668086869512</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +267,7 @@
     <MESSAGE value="Çift sayılar" />
     <MESSAGE value="Tek Sayılar" />
     <MESSAGE value="Üslü sayılar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Üslü sayılar" />
+    <MESSAGE value="Faktöriyel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Faktöriyel" />
   </component>
 </project>
