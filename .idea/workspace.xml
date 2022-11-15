@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Harmonik seri">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_3/YildizlaCizme.java" afterDir="false" />
+    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Yıldızlarla desen çizdirme">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_3/AtmProjesi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Masaüstü/coding/java/todoscrud&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.YildizlaCizme">
+  <component name="RunManager" selected="Application.AtmProjesi">
     <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_3.Armstrong" />
       <module name="Patika.devJava101Projects" />
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Faktoriyel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_3.Faktoriyel" />
+    <configuration name="AtmProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_3.AtmProjesi" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtmProjesi" />
         <item itemvalue="Application.YildizlaCizme" />
         <item itemvalue="Application.Hafta_3.HarmonikSeri" />
         <item itemvalue="Application.Hafta_3.Armstrong" />
         <item itemvalue="Application.Hafta_3.UsAlma" />
-        <item itemvalue="Application.Hafta_3.Faktoriyel" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +125,7 @@
       <workItem from="1667999402646" duration="4682000" />
       <workItem from="1668084441494" duration="3618000" />
       <workItem from="1668425573006" duration="1090000" />
-      <workItem from="1668510306231" duration="7928000" />
+      <workItem from="1668510306231" duration="8672000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -260,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668513251719</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Yıldızlarla desen çizdirme">
+      <created>1668527758190</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1668527758190</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +302,7 @@
     <MESSAGE value="Üs alma" />
     <MESSAGE value="Armstrong sayılar" />
     <MESSAGE value="Harmonik seri" />
-    <option name="LAST_COMMIT_MESSAGE" value="Harmonik seri" />
+    <MESSAGE value="Yıldızlarla desen çizdirme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yıldızlarla desen çizdirme" />
   </component>
 </project>
