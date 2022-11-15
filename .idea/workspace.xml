@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Üs alma">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_3/Armstrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Armstrong sayılar">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_3/HarmonikSeri.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +36,8 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Masaüstü/coding/java/todoscrud&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Armstrong">
-    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.HarmonikSeri">
+    <configuration name="Hafta_3.Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_3.Armstrong" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
@@ -51,7 +50,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Faktoriyel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Hafta_3.Faktoriyel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_3.Faktoriyel" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
@@ -64,20 +63,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TekSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_3.TekSayilar" />
-      <module name="Patika.devJava101Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hafta_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsAlma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Hafta_3.UsAlma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_3.UsAlma" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
@@ -90,8 +76,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ussu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Hafta_3.Ussu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_3.Ussu" />
+      <module name="Patika.devJava101Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hafta_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HarmonikSeri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_3.HarmonikSeri" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Armstrong" />
-        <item itemvalue="Application.UsAlma" />
-        <item itemvalue="Application.Faktoriyel" />
-        <item itemvalue="Application.Ussu" />
-        <item itemvalue="Application.TekSayilar" />
+        <item itemvalue="Application.HarmonikSeri" />
+        <item itemvalue="Application.Hafta_3.Armstrong" />
+        <item itemvalue="Application.Hafta_3.UsAlma" />
+        <item itemvalue="Application.Hafta_3.Faktoriyel" />
+        <item itemvalue="Application.Hafta_3.Ussu" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +124,7 @@
       <workItem from="1667999402646" duration="4682000" />
       <workItem from="1668084441494" duration="3618000" />
       <workItem from="1668425573006" duration="1090000" />
-      <workItem from="1668510306231" duration="2390000" />
+      <workItem from="1668510306231" duration="2781000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -246,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668087478421</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Armstrong sayılar">
+      <created>1668512839821</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1668512839821</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +285,7 @@
     <MESSAGE value="Üslü sayılar" />
     <MESSAGE value="Faktöriyel" />
     <MESSAGE value="Üs alma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Üs alma" />
+    <MESSAGE value="Armstrong sayılar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Armstrong sayılar" />
   </component>
 </project>
