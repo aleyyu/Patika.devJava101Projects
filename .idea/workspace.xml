@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="ATM Projesi">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_4/OgrenciBilgiSistemi/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta_4/OgrenciBilgiSistemi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta_4/OgrenciBilgiSistemi/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta_4/OgrenciBilgiSistemi/Teacher.java" afterDir="false" />
+    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Öğrenci Otomasyon Sistemi">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_4/BoksOyunu/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta_4/BoksOyunu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta_4/BoksOyunu/Ring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     "last_opened_file_path": "D:/Masaüstü/coding/java/Patika.devJava101Projects"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Hafta_4.BoksOyunu.Main">
     <configuration name="AtmProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_3.AtmProjesi" />
       <module name="Patika.devJava101Projects" />
@@ -67,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_4.OgrenciBilgiSistemi.Main" />
+    <configuration name="Hafta_4.BoksOyunu.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_4.BoksOyunu.Main" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hafta_4.OgrenciBilgiSistemi.*" />
+          <option name="PATTERN" value="Hafta_4.BoksOyunu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsAlma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_3.UsAlma" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_4.OgrenciBilgiSistemi.Main" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hafta_3.*" />
+          <option name="PATTERN" value="Hafta_4.OgrenciBilgiSistemi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hafta_4.BoksOyunu.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.AtmProjesi" />
         <item itemvalue="Application.YildizlaCizme" />
@@ -129,7 +129,7 @@
       <workItem from="1668425573006" duration="1090000" />
       <workItem from="1668510306231" duration="9227000" />
       <workItem from="1668608233561" duration="647000" />
-      <workItem from="1668612427802" duration="3740000" />
+      <workItem from="1668612427802" duration="6216000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -278,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668528353070</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Öğrenci Otomasyon Sistemi">
+      <created>1668621525412</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1668621525412</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -315,6 +322,7 @@
     <MESSAGE value="Harmonik seri" />
     <MESSAGE value="Yıldızlarla desen çizdirme" />
     <MESSAGE value="ATM Projesi" />
-    <option name="LAST_COMMIT_MESSAGE" value="ATM Projesi" />
+    <MESSAGE value="Öğrenci Otomasyon Sistemi" />
+    <option name="LAST_COMMIT_MESSAGE" value="Öğrenci Otomasyon Sistemi" />
   </component>
 </project>
