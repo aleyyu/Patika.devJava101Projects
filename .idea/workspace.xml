@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Palindrom Sayı">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_3/RecursiveFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta_3/GelismisHesapMakinesi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +37,22 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Masaüstü/coding/java/Patika.devJava101Projects&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RecursiveFibonacci">
+  <component name="RunManager" selected="Application.GelismisHesapMakinesi">
     <configuration name="EbobEkok" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_3.EbobEkok" />
+      <module name="Patika.devJava101Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hafta_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GelismisHesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_3.GelismisHesapMakinesi" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
@@ -57,19 +70,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Hafta_4.BoksOyunu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_4.OgrenciBilgiSistemi.Main" />
-      <module name="Patika.devJava101Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hafta_4.OgrenciBilgiSistemi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GelismisHesapMakinesi" />
         <item itemvalue="Application.RecursiveFibonacci" />
         <item itemvalue="Application.PalindromSayi" />
         <item itemvalue="Application.EbobEkok" />
         <item itemvalue="Application.Hafta_4.BoksOyunu.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <workItem from="1668510306231" duration="9227000" />
       <workItem from="1668608233561" duration="647000" />
       <workItem from="1668612427802" duration="6372000" />
-      <workItem from="1668684486523" duration="3530000" />
+      <workItem from="1668684486523" duration="7012000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -305,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668686729256</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Palindrom Sayı">
+      <created>1668688232005</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1668688232005</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
