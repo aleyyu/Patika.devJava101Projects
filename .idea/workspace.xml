@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Dizide tekrar eden sayılar">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_4/SayiTahminOyunu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Sayı tahmin etme oyunu">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_4/PalindromikKelime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Masaüstü/coding/java/Patika.devJava101Projects&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SayiTahminOyunu">
+  <component name="RunManager" selected="Application.PalindromikKelime">
     <configuration name="CokBoyutluDiziHarfYazma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_4.CokBoyutluDiziHarfYazma" />
       <module name="Patika.devJava101Projects" />
@@ -64,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DizidekiElemanlarinOrtalamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_4.DizidekiElemanlarinOrtalamasi" />
+    <configuration name="DizidekiMaxveMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_4.DizidekiMaxveMin" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DizidekiMaxveMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_4.DizidekiMaxveMin" />
+    <configuration name="PalindromikKelime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_4.PalindromikKelime" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromikKelime" />
         <item itemvalue="Application.SayiTahminOyunu" />
         <item itemvalue="Application.DizideTekrarEdenSayilar" />
         <item itemvalue="Application.CokBoyutluDiziHarfYazma" />
         <item itemvalue="Application.DizidekiMaxveMin" />
-        <item itemvalue="Application.DizidekiElemanlarinOrtalamasi" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +128,7 @@
       <workItem from="1668608233561" duration="647000" />
       <workItem from="1668612427802" duration="6372000" />
       <workItem from="1668684486523" duration="7854000" />
-      <workItem from="1668768921313" duration="12588000" />
+      <workItem from="1668768921313" duration="12943000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -348,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668782574229</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Sayı tahmin etme oyunu">
+      <created>1668784760392</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1668784760392</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +372,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Kullanıcı Girişi" />
     <MESSAGE value="Sıcaklığa göre etkinlik önerme" />
     <MESSAGE value="Numaraları büyükten küçüğe sıralama" />
     <MESSAGE value="Burç bulma" />
@@ -391,6 +396,7 @@
     <MESSAGE value="Dizideki min ve max sayı" />
     <MESSAGE value="Çok boyutlu diziyle harf yazdırma" />
     <MESSAGE value="Dizide tekrar eden sayılar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dizide tekrar eden sayılar" />
+    <MESSAGE value="Sayı tahmin etme oyunu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sayı tahmin etme oyunu" />
   </component>
 </project>
