@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Çok boyutlu diziyle harf yazdırma">
-      <change afterPath="$PROJECT_DIR$/src/Hafta_4/DizideTekrarEdenSayilar.java" afterDir="false" />
+    <list default="true" id="827154f9-b797-4f76-97d4-817155da52fb" name="Changes" comment="Dizide tekrar eden sayılar">
+      <change afterPath="$PROJECT_DIR$/src/Hafta_4/SayiTahminOyunu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Masaüstü/coding/java/Patika.devJava101Projects&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DizideTekrarEdenSayilar">
+  <component name="RunManager" selected="Application.SayiTahminOyunu">
     <configuration name="CokBoyutluDiziHarfYazma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hafta_4.CokBoyutluDiziHarfYazma" />
       <module name="Patika.devJava101Projects" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GelismisHesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hafta_3.GelismisHesapMakinesi" />
+    <configuration name="SayiTahminOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hafta_4.SayiTahminOyunu" />
       <module name="Patika.devJava101Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hafta_3.*" />
+          <option name="PATTERN" value="Hafta_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SayiTahminOyunu" />
         <item itemvalue="Application.DizideTekrarEdenSayilar" />
         <item itemvalue="Application.CokBoyutluDiziHarfYazma" />
         <item itemvalue="Application.DizidekiMaxveMin" />
         <item itemvalue="Application.DizidekiElemanlarinOrtalamasi" />
-        <item itemvalue="Application.GelismisHesapMakinesi" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +129,7 @@
       <workItem from="1668608233561" duration="647000" />
       <workItem from="1668612427802" duration="6372000" />
       <workItem from="1668684486523" duration="7854000" />
-      <workItem from="1668768921313" duration="10252000" />
+      <workItem from="1668768921313" duration="12588000" />
     </task>
     <task id="LOCAL-00001" summary="Vücut kitle indeksi">
       <created>1667909372078</created>
@@ -341,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668779674742</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Dizide tekrar eden sayılar">
+      <created>1668782574229</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1668782574229</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,7 +366,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Hesap Makinesi" />
     <MESSAGE value="Kullanıcı Girişi" />
     <MESSAGE value="Sıcaklığa göre etkinlik önerme" />
     <MESSAGE value="Numaraları büyükten küçüğe sıralama" />
@@ -384,6 +390,7 @@
     <MESSAGE value="Dizideki Elemanların Ortalaması" />
     <MESSAGE value="Dizideki min ve max sayı" />
     <MESSAGE value="Çok boyutlu diziyle harf yazdırma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Çok boyutlu diziyle harf yazdırma" />
+    <MESSAGE value="Dizide tekrar eden sayılar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dizide tekrar eden sayılar" />
   </component>
 </project>
